@@ -33,7 +33,6 @@ const FeaturedRow = ({ id, title, description }) => {
         });
         
     }, []);
-
   return (
     <View>
       <View className="flex-row mt-4 items-center justify-between px-4">
